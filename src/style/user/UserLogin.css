@@ -1,0 +1,38 @@
+ul {
+    margin-left: -50px;
+}
+
+ul li {
+    display: inline-block;
+    background-color: gainsboro;
+    padding: 50px;
+    margin: 10px;
+    border-radius: 10px;
+
+}
+
+ul li form label {
+    float: left;
+    font-weight: bold;
+    color: blueviolet;
+}
+
+ul li form input {
+    height: 30px;
+    width: 300px;
+    border-radius: 5px;
+    box-shadow: aliceblue;
+    border-width: 0px;
+}
+
+button {
+    color: blueviolet;
+    background-color: gainsboro;
+    height: 30px;
+    width: 180px;
+    border-radius: 10px;
+    margin-bottom: 50px;
+    font-weight: bold;
+    font-size: medium;
+    border-width: 0px;
+}
